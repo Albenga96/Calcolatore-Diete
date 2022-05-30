@@ -6,6 +6,7 @@ const RESOURCES = {
   ".git/COMMIT_EDITMSG": "88aa43463356524cc8003a44159a2f66",
 ".git/config": "be31df8676f72e8ed09ca4d226e07a3c",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
+".git/FETCH_HEAD": "d41d8cd98f00b204e9800998ecf8427e",
 ".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
 ".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
 ".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
@@ -74,8 +75,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b3ddf24c67741aa3be4a322026c0adc6",
-"/": "b3ddf24c67741aa3be4a322026c0adc6",
+"index.html": "217e1ad4b8a264c0fbbfdabb10c0e4c2",
+"/": "217e1ad4b8a264c0fbbfdabb10c0e4c2",
 "main.dart.js": "32fb190ee4972e4e6bdc38be8e08001b",
 "manifest.json": "0e8ce3d1ffe92c0abc1782b2c6109172",
 "version.json": "970f408c4347c75d5ccecd0241b26b48"
